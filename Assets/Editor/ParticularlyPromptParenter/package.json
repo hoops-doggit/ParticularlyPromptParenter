@@ -1,0 +1,7 @@
+{
+    "name": "com.hoopsdtoolsco.particularlypromptparenter",
+    "displayName": "Particularly Prompt Parenter",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "Particularly Prompt Parenter for use with the Unity 2018.3 package manager."
+}

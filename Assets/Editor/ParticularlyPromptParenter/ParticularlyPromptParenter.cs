@@ -27,9 +27,7 @@ public class ParticularlyPromptParenter : EditorWindow {
         if (GUILayout.Button("Parent the children"))
         {
             Parent();
-        }
-
-        
+        }        
     }
 
     void Parent()
